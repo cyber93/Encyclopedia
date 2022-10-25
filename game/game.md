@@ -7,6 +7,13 @@
 
 
 
+## PC
+
+- [[게임별곡100] 영원히 끝나지 않는 이야기 '울티마'](http://www.gametoc.co.kr/news/articleView.html?idxno=26904)
+- [[게임별곡\] 명작 어드벤처 '원숭이 섬의 비밀 1, 2'](http://www.gametoc.co.kr/news/articleView.html?idxno=8251)
+
+
+
 ## YouTube
 
 - [이클리피아](https://www.youtube.com/user/eclipiablog/playlists)
