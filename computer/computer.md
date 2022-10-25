@@ -1,2 +1,2 @@
-* [폴더 관리에 대해서 ](2022-10-25-folder-management.md)
+* [폴더 관리에 대해서 ](computer/2022-10-25-folder-management.md)
 
