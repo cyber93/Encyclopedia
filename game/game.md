@@ -7,8 +7,11 @@
 
 ## Playstation
 
-* [다크소울 세계관/스토리 총정리](https://bbs.ruliweb.com/family/4892/board/17/read/49)
-* [엘든링 스토리 총정리](https://bbs.ruliweb.com/family/4892/board/185738/read/35950?search_key=%EB%A0%88%EB%82%A0%EB%9D%BC&search_type=subject_content&utm_source=pocket_mylist)
+* FromSoftware
+  * [다크소울 세계관/스토리 총정리](https://bbs.ruliweb.com/family/4892/board/17/read/49)
+  * [엘든링 스토리 총정리](https://bbs.ruliweb.com/family/4892/board/185738/read/35950?search_key=%EB%A0%88%EB%82%A0%EB%9D%BC&search_type=subject_content&utm_source=pocket_mylist)
+  * [블러드본 스토리](https://bbs.ruliweb.com/game/82048/read/8311689?)
+
 * [겜우리](https://gamewoori.com/)
 * [Save Wizard](https://www.savewizard.net/)
 

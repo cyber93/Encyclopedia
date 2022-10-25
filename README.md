@@ -1,6 +1,7 @@
 # cyber93's Encyclopedia 
 
-<p><a href="https://cyber93-encyclopedia.netlify.app"><img src="https://img.shields.io/badge/Site-https%3A%2F%2Fcyber93--encyclopedia .netlify.app-blue" alt="Encyclopedia" /></a>
+<p><a href="https://cyber93-encyclopedia.netlify.app"><img src="https://img.shields.io/badge/Site-https%3A%2F%2Fcyber93--encyclopedia.netlify.app-blue" alt="Encyclopedia" /></a>
+
 
 
 
