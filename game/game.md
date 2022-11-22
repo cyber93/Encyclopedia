@@ -2,9 +2,9 @@
 
 ### Ultima
 
-![Ultima VI: The False Prophet DOS front cover](https://playclassic.games/wp-content/uploads/2019/04/Ultima-6-The-False-Prophet.jpg)
+![Ultima VI: The False Prophet DOS front cover](./_media/Ultima6_1.jpg)
 
-![Ultima 6 (Original)](https://t1.daumcdn.net/cfile/tistory/261F1F3B586DFC1328)
+![Ultima 6 (Original)](./_media/Ultima6_2.jpg)
 
 
 

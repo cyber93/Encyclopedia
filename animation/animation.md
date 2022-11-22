@@ -2,7 +2,7 @@
 
 ### 파이브 스타 스토리 설명 【[~2012](https://namu.wiki/w/%ED%8C%8C%EC%9D%B4%EB%B8%8C%20%EC%8A%A4%ED%83%80%20%EC%8A%A4%ED%86%A0%EB%A6%AC)】 【[2013~](https://namu.wiki/w/%ED%8C%8C%EC%9D%B4%EB%B8%8C%20%EC%8A%A4%ED%83%80%20%EC%8A%A4%ED%86%A0%EB%A6%AC(2013))】
 
-![파일:FSS 리셋 일러스트 .png](https://w.namu.la/s/ee27b878981678d6b308f49bcd54b7960036277528755d2911f176e9d1e31b7ef163e8360066fd986343e15dd4ae27d0ce6faedfe2cd1a228d5dcee0cf89fe90dcec95f61221477a3bca528cae6ee3ed8e2ed2329dc1df42e80ca9f155bd9d21)
+![파일:FSS 리셋 일러스트 .png](./_media/fss.png)
 
 
 
@@ -12,7 +12,7 @@
 
 ### 1.개요 - 중국 전국시대 말기를 배경으로 한 일본 만화
 
-![8925296071 1](https://w.namu.la/s/d643fba26a92896ec60fc973a7d67d0f05463023804340f4fd3caf1f666a42381e02529eda760e2c1cff6b5d86c5b9cb075191e17a3755569432e889d97facc42c1974a23e61dd5758c12a8aed4cc1e962dd765963be21b6f60d9214f5a089a9fddf1bf07e751c9281478e89835c5c4a)
+![8925296071 1](./_media/kingdom.jpg)
 
 ### [2](https://namu.wiki/w/킹덤(만화)/줄거리#s-2).줄거리
 
