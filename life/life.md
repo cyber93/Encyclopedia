@@ -4,12 +4,29 @@
 
 
 
+## Blog
+
+- [구글 애드센스에 외화통장 등록하기](https://gddong22.tistory.com/95?utm_source=pocket_saves)
+
+
+
 ## Car
-
-
 
 
 
 ## Funiture
 
 * [Fun-it-Urs](https://funiturs.com/)
+
+
+
+## Internet
+
+- [LG U+ 공유기 외부 접속](https://m.blog.naver.com/fullerene33/221386283209?utm_source=pocket_saves)
+
+
+
+## Travel
+
+- [제주도 정보](http://jejunim1.tistory.com/category/%EC%A0%9C%EC%A3%BC%EB%8F%84%EC%97%AC%ED%96%89?utm_source=pocket_saves)
+
