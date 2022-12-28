@@ -4,12 +4,6 @@
 
 
 
-## Blog
-
-- [구글 애드센스에 외화통장 등록하기](https://gddong22.tistory.com/95?utm_source=pocket_saves)
-
-
-
 ## Car
 
 

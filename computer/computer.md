@@ -7,6 +7,14 @@
 
 
 
+## Blog
+
+- [hELLO Skin](https://pronist.tistory.com/5?utm_source=pocket_saves)
+- [TriplexLab Skin](https://triplexlab.tistory.com/126?utm_source=pocket_saves)
+- [구글 애드센스에 외화통장 등록하기](https://gddong22.tistory.com/95?utm_source=pocket_saves)
+
+
+
 ## Software
 
 - [자바 모든 버전 다운로드](https://nhj12311.tistory.com/37)
@@ -24,6 +32,9 @@
 - [Emoji](https://getemoji.com/)
 - [Free Icons](https://icon-icons.com/)
 - [知了](https://zhile.io/)
+- GitBook
+  - [Intermediate Python](https://ddanggle.gitbooks.io/interpy-kr/content/)
+
 - [WikiDocs](https://wikidocs.net/)
   - [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
   - [Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
