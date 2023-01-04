@@ -4,6 +4,9 @@
 * [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
 * [폴더 관리에 대해서](computer/2022-10-25-folder-management.md)
 * [디자인 패턴들](https://refactoring.guru/ko/design-patterns)
+* [SQLite Internals : 세상에서 가장 많이 사용되는 DB의 동작방식](https://www.compileralchemy.com/books/sqlite-internals/)
+* [SQLite의 알려지지 않은 이야기](https://corecursive.com/066-sqlite-with-richard-hipp/)
+* [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals)
 
 
 
@@ -26,7 +29,8 @@
 
 ## Useful Sites
 
-- [GeekNews](https://news.hada.io/)
+- [GeekNews](https://news.hada.io/) / [GeekNews 인기글, 긴글, 활발한 글 List](https://news.hada.io/lists)
+- [explainshell](https://explainshell.com/)
 - [Explainpaper](https://www.explainpaper.com/): 논문 PDF를 업로드한 후, 화면에서 모르는 단어 또는 공식, 문장등을 마우스로 하이라이트하면 GPT-3가 쉬운 문장으로 설명을 생성해서 보여줌
 - [추천 토렌트](http://jaewook.net/)
 - [Emoji](https://getemoji.com/)
