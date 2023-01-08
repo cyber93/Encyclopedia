@@ -50,9 +50,3 @@
 
 - [Documentaries for Developers](https://www.youtube.com/playlist?list=PLtEPUaeDclku1ECmuN3IsUimHApukWIOf): 개발자 대상의 오픈소스 다큐멘터리
 
-
-
-## ✥Awesome
-
-* [Portabl](https://www.portabl.com/)
-
