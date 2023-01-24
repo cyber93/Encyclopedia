@@ -7,6 +7,7 @@
 * [SQLite Internals : 세상에서 가장 많이 사용되는 DB의 동작방식](https://www.compileralchemy.com/books/sqlite-internals/)
 * [SQLite의 알려지지 않은 이야기](https://corecursive.com/066-sqlite-with-richard-hipp/)
 * [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals)
+* [만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/)
 
 
 
@@ -40,7 +41,6 @@
 - [知了](https://zhile.io/)
 - GitBook
   - [Intermediate Python](https://ddanggle.gitbooks.io/interpy-kr/content/)
-
 - [WikiDocs](https://wikidocs.net/)
   - [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
   - [Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
