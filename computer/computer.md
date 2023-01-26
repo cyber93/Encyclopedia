@@ -1,21 +1,41 @@
 ## Article
 
 * [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
-* [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
+* [LWN] What every programmer should know about memory
+  * [Part 1](https://lwn.net/Articles/250967/)
+  * [Part 2](http://lwn.net/Articles/252125/) (CPU caches)
+  * [Part 3](http://lwn.net/Articles/253361/) (Virtual memory)
+  * [Part 4](http://lwn.net/Articles/254445/) (NUMA systems)
+  * [Part 5](http://lwn.net/Articles/255364/) (What programmers can do - cache optimization)
+  * [Part 6](http://lwn.net/Articles/256433/) (What programmers can do - multi-threaded optimizations)
+  * [Part 7](http://lwn.net/Articles/257209/) (Memory performance tools)
+  * [Part 8](https://lwn.net/Articles/258154/) (Future technologies)
+  * [Part 9](https://lwn.net/Articles/258188/) (Appendices and bibliography)
+
 * [폴더 관리에 대해서](computer/2022-10-25-folder-management.md)
 * [디자인 패턴들](https://refactoring.guru/ko/design-patterns)
-* [SQLite Internals : 세상에서 가장 많이 사용되는 DB의 동작방식](https://www.compileralchemy.com/books/sqlite-internals/)
-* [SQLite의 알려지지 않은 이야기](https://corecursive.com/066-sqlite-with-richard-hipp/)
-* [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals)
+* SQLite
+  * [SQLite Internals : 세상에서 가장 많이 사용되는 DB의 동작방식](https://www.compileralchemy.com/books/sqlite-internals/)
+  * [SQLite의 알려지지 않은 이야기](https://corecursive.com/066-sqlite-with-richard-hipp/)
+
+* PostgreSQL
+  * [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals)
+
 * [만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/)
+* [Bootstrap / Bootstrapping](computer/2023-01-26-bootstrap.md)
 
 
 
 ## Blog
 
-- [hELLO Skin](https://pronist.tistory.com/5?utm_source=pocket_saves)
-- [TriplexLab Skin](https://triplexlab.tistory.com/126?utm_source=pocket_saves)
+- Skins
+  - [hELLO Skin](https://pronist.tistory.com/5?utm_source=pocket_saves)
+  - [TriplexLab Skin](https://triplexlab.tistory.com/126?utm_source=pocket_saves)
+
 - [구글 애드센스에 외화통장 등록하기](https://gddong22.tistory.com/95?utm_source=pocket_saves)
+
+- [블로그 운영 및 SEO 꿀팁](https://tilnote.io/pages/63ae6ee0ea7d95e3dd7e5cee?utm_source=pocket_saves)
+
 
 
 
