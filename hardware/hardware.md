@@ -14,7 +14,7 @@
 - ASRock H110M-STX
 - 인텔 7세대 카비레이크 펜티엄 G4600 (3.6GHz)
 - DDR4 / 16GB
-- SSD: PM991a 256GB, 840 EVO 250GB, T3 500GB
+- SSD: PM991a 256GB, 840EVO 250GB, T3 500GB
 - 내장 그래픽 / 인텔 HD 630
 
 
@@ -23,8 +23,8 @@
 
 - 39.6cm(15.6인치) / 1920x1080(FHD) / 안티글레어 / 광시야각 / 슬림형 베젤
 - 인텔 12세대 엘더레이크 코어i7-1255U (1.7GHz) / 10코어(2P+8E) 
-- DDR4 / 8GB→16GB
-- SSD: PM991a 256GB→P31 1TB, 870QVO 1TB
+- DDR4 / ~~8GB~~→16GB
+- SSD: ~~PM991a 256GB~~→P31 1TB, 870QVO 1TB
 - 내장그래픽 / UHD Graphics 
 
 
