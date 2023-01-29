@@ -43,6 +43,13 @@
 
 
 
+## Raspberry Pi 3B
+
+- Broadcom BCM2837 64bit CPU / Quad-core 64-bit ARM cortex A53 CPU
+- LPDDR2 1GB
+
+
+
 ## SolidRun CuBox
 
 - [OS Download](https://download.geexbox.org/SolidRun/)
