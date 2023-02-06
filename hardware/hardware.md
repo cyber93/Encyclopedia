@@ -4,7 +4,7 @@
 
 - 인텔 6세대 스카이레이크 i7-6700 (3.4GHz) / 인텔 H110
 - DDR4 / 16GB
-- SSD: PM961 M.2 NVMe 256GB
+- SSD: ~~PM961 M.2 NVMe 256GB~~→P31 1TB
 - 라데온 RX 460 2GB
 
 
@@ -24,7 +24,7 @@
 - 39.6cm(15.6인치) / 1920x1080(FHD) / 안티글레어 / 광시야각 / 슬림형 베젤
 - 인텔 12세대 엘더레이크 코어i7-1255U (1.7GHz) / 10코어(2P+8E) 
 - DDR4 / ~~8GB~~→16GB
-- SSD: ~~PM991a 256GB~~→P31 1TB, 870QVO 1TB
+- SSD: ~~PM991a 256GB~~→980PRO 1TB, 870QVO 1TB
 - 내장그래픽 / UHD Graphics 
 
 
