@@ -48,11 +48,11 @@
 
 ### 3. TV Animations
 
-- 【[Season 1](https://ohli24.net/c/%ED%82%B9%EB%8D%A4)】 【[Season 2](https://ohli24.net/c/%ED%82%B9%EB%8D%A4%202%EA%B8%B0)】 【[Season 3](https://ohli24.net/c/%ED%82%B9%EB%8D%A4%20(2020))】 【[Season 4](https://ohli24.net/c/%ED%82%B9%EB%8D%A4%204%EA%B8%B0)】 【Season 5】
+- 【[Season 1](https://ohli24.org/c/%ED%82%B9%EB%8D%A4)】 【[Season 2](https://ohli24.org/c/%ED%82%B9%EB%8D%A4%202%EA%B8%B0)】 【[Season 3](https://ohli24.org/c/%ED%82%B9%EB%8D%A4%20(2020))】 【[Season 4](https://ohli24.org/c/%ED%82%B9%EB%8D%A4%204%EA%B8%B0)】 【Season 5】
 
 
 
 ## Useful Sites
 
-* [애니24](https://ohli24.net/)
+* [애니24](https://ohli24.org/)
 
