@@ -48,7 +48,7 @@
 
 ### 3. TV Animations
 
-- 【[Season 1](https://ohli24.org/c/%ED%82%B9%EB%8D%A4)】 【[Season 2](https://ohli24.org/c/%ED%82%B9%EB%8D%A4%202%EA%B8%B0)】 【[Season 3](https://ohli24.org/c/%ED%82%B9%EB%8D%A4%20(2020))】 【[Season 4](https://ohli24.org/c/%ED%82%B9%EB%8D%A4%204%EA%B8%B0)】 【Season 5】
+- 【[Season](https://ohli24.org/c/%ED%82%B9%EB%8D%A41%EA%B8%B0) 1】 【[Season](https://ohli24.org/c/%ED%82%B9%EB%8D%A4%202%EA%B8%B0) 2】 【[Season](https://ohli24.org/c/%ED%82%B9%EB%8D%A4%203%EA%B8%B0) 3】 【[Season](https://ohli24.org/c/%ED%82%B9%EB%8D%A4%204%EA%B8%B0) 4】 【Season 5】
 
 
 
