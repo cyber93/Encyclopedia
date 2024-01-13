@@ -50,6 +50,7 @@
 - [MalwareZero](https://malzero.xyz/)
 - [tmbk](https://github.com/linhx/tbmk)
 - [ugrep](https://ugrep.com/)
+- [wallabag](https://github.com/wallabag/wallabag)
 
 
 
