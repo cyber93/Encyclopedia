@@ -69,6 +69,7 @@
 - GitBook
   - [Intermediate Python](https://ddanggle.gitbooks.io/interpy-kr/content/)
 - [WikiDocs](https://wikidocs.net/)
+  - [함께해요 파이썬 생태계](https://wikidocs.net/book/14021)
   - [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
   - [Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
 
