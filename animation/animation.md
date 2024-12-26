@@ -2,6 +2,8 @@
 
 ### 파이브 스타 스토리 설명 【[~2012](https://namu.wiki/w/%ED%8C%8C%EC%9D%B4%EB%B8%8C%20%EC%8A%A4%ED%83%80%20%EC%8A%A4%ED%86%A0%EB%A6%AC)】 【[2013~](https://namu.wiki/w/%ED%8C%8C%EC%9D%B4%EB%B8%8C%20%EC%8A%A4%ED%83%80%20%EC%8A%A4%ED%86%A0%EB%A6%AC(2013))】
 
+- https://mangadex.org/title/717d25ff-6562-4e32-91c0-2705bf85009b/the-five-star-stories
+
 ![파일:FSS 리셋 일러스트 .png](./_media/fss.png)
 
 
@@ -97,13 +99,7 @@
 
 
 
-### 3. TV Animations
-
-- 【[Season 1](https://ohli24.org/c/%ED%82%B9%EB%8D%A41%EA%B8%B0)】 【[Season 2](https://ohli24.org/c/%ED%82%B9%EB%8D%A4%202%EA%B8%B0)】 【[Season 3](https://ohli24.org/c/%ED%82%B9%EB%8D%A4%203%EA%B8%B0)】 【[Season 4](https://ohli24.org/c/%ED%82%B9%EB%8D%A4%204%EA%B8%B0)】 【Season 5】
-
-
-
 ## Useful Sites
 
-* [애니24](https://ohli24.org/)
+* 
 
