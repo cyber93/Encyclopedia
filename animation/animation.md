@@ -3,6 +3,7 @@
 ### 파이브 스타 스토리 설명 【[~2012](https://namu.wiki/w/%ED%8C%8C%EC%9D%B4%EB%B8%8C%20%EC%8A%A4%ED%83%80%20%EC%8A%A4%ED%86%A0%EB%A6%AC)】 【[2013~](https://namu.wiki/w/%ED%8C%8C%EC%9D%B4%EB%B8%8C%20%EC%8A%A4%ED%83%80%20%EC%8A%A4%ED%86%A0%EB%A6%AC(2013))】
 
 - https://mangadex.org/title/717d25ff-6562-4e32-91c0-2705bf85009b/the-five-star-stories
+- https://blog.naver.com/PostList.naver?blogId=ssizz2002
 
 ![파일:FSS 리셋 일러스트 .png](./_media/fss.png)
 
