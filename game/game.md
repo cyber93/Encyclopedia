@@ -38,6 +38,13 @@
 
 
 
+### 듀얼센스 쏠림 수리
+
+- [엄청 간단하게 듀얼센스 쏠림 수리하기](https://www.youtube.com/watch?v=4L7rdtpV5d8)
+  - [수리부품](https://ko.aliexpress.com/item/33017818063.html?spm=a2g0o.order_list.order_list_main.5.6840140fhgVB46&gatewayAdapt=glo2kor)
+
+
+
 ## Useful Sites
 
 - [겜우리](https://gamewoori.com/)
