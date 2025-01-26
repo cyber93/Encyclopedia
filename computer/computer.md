@@ -24,6 +24,22 @@
 * [만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/)
 * [Bootstrap / Bootstrapping](computer/2023-01-26-bootstrap.md)
 
+- 개발자를 위한 SSD (Coding for SSD)
+
+  - [Part 1: Introduction and Table of Contents](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
+
+  - - https://tech.kakao.com/posts/326
+  - [Part 2: Architecture of an SSD and Benchmarking](http://codecapsule.com/2014/02/12/coding-for-ssds-part-2-architecture-of-an-ssd-and-benchmarking/)
+    - https://tech.kakao.com/posts/327
+  - [Part 3: Pages, Blocks, and the Flash Translation Layer](http://codecapsule.com/2014/02/12/coding-for-ssds-part-3-pages-blocks-and-the-flash-translation-layer/)
+    - https://tech.kakao.com/posts/328
+  - [Part 4: Advanced Functionalities and Internal Parallelism](http://codecapsule.com/2014/02/12/coding-for-ssds-part-4-advanced-functionalities-and-internal-parallelism/)
+    - https://tech.kakao.com/posts/329
+  - [Part 5: Access Patterns and System Optimizations](http://codecapsule.com/2014/02/12/coding-for-ssds-part-5-access-patterns-and-system-optimizations/)
+    - https://tech.kakao.com/posts/330
+  - [Part 6: A Summary – What every programmer should know about solid-state drives](http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/)
+    - https://tech.kakao.com/posts/331
+
 
 
 ## Blog
