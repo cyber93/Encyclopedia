@@ -27,8 +27,8 @@
 - 개발자를 위한 SSD (Coding for SSD)
 
   - [Part 1: Introduction and Table of Contents](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
-
-  - - https://tech.kakao.com/posts/326
+    - https://tech.kakao.com/posts/326
+  
   - [Part 2: Architecture of an SSD and Benchmarking](http://codecapsule.com/2014/02/12/coding-for-ssds-part-2-architecture-of-an-ssd-and-benchmarking/)
     - https://tech.kakao.com/posts/327
   - [Part 3: Pages, Blocks, and the Flash Translation Layer](http://codecapsule.com/2014/02/12/coding-for-ssds-part-3-pages-blocks-and-the-flash-translation-layer/)
