@@ -29,6 +29,16 @@
 
 
 
+## Samsung Galaxy Book5 Pro(NT940XHA-KD72S)
+
+- 39.6cm(15.6인치) / 2880x1800(WQXGA+) / 안티글레어 / 광시야각 / 슬림형 베젤TBD
+- 인텔 코어 울트라7(S2) 258V (4.8GHz) / NPU 47TOPS
+- LPDDR5x / 32GB
+- SSD: 1TB
+- 내장그래픽 / Arc 140V / 8core
+
+
+
 ## Apple MacBook Pro 16" M1 Pro
 
 - Apple M1 Pro 10 코어 CPU / 16 코어 GPU
@@ -43,7 +53,7 @@
 
 
 
-## Raspberry Pi 3B
+## Raspberry Pi 3B & 3B+
 
 - Broadcom BCM2837 64bit CPU / Quad-core 64-bit ARM cortex A53 CPU
 - LPDDR2 1GB
