@@ -31,7 +31,7 @@
 
 ## Samsung Galaxy Book5 Pro(NT940XHA-KD72S)
 
-- 39.6cm(15.6인치) / 2880x1800(WQXGA+) / 안티글레어 / 광시야각 / 슬림형 베젤TBD
+- 35.6cm(14인치) / 2880x1800(WQXGA+) / 안티글레어 / 광시야각 / 슬림형 베젤TBD
 - 인텔 코어 울트라7(S2) 258V (4.8GHz) / NPU 47TOPS
 - LPDDR5x / 32GB
 - SSD: 1TB
