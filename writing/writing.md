@@ -16,9 +16,9 @@
 
 
 
-
-
 ## LaTex
+
+* [배운거 저장해두고 나주에 보려고 만든 블로그](https://blog.naver.com/uof4949)
 
 * [보통의 공대생](https://normal-engineer.tistory.com/category/%EA%B8%B0%ED%83%80/%EB%85%BC%EB%AC%B8%EC%9E%91%EC%84%B1%20Writing)
 
@@ -30,5 +30,4 @@
   * [LaTeX and KomaScript Cheatsheets](https://www.reddit.com/r/LaTeX/comments/9qu20q/latex_and_komascript_cheatsheets/)
 
   
-
 
