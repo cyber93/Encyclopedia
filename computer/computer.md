@@ -61,12 +61,16 @@
 - [자바 모든 버전 다운로드](https://nhj12311.tistory.com/37)
 - [AMRCP](http://amrcpblog.blogspot.com/)
 - [dnGrep](https://github.com/dnGrep/dnGrep)
+- [everything](https://www.voidtools.com/ko-kr/)
 - [Heynote](https://heynote.com/)
 - [iPuTTY](https://github.com/iPuTTY)
 - [MalwareZero](https://malzero.xyz/)
+- [Monitorian](https://apps.microsoft.com/detail/9nw33j738bl0?hl=ko-KR&gl=KR)
+- [snipaste](https://www.snipaste.com/)
 - [tmbk](https://github.com/linhx/tbmk)
 - [ugrep](https://ugrep.com/)
 - [wallabag](https://github.com/wallabag/wallabag)
+- [zoomit](https://learn.microsoft.com/ko-kr/sysinternals/downloads/zoomit)
 
 
 
