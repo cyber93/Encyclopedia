@@ -19,15 +19,15 @@
 | <img src="./_media/japan.svg" style="zoom:5%;" />1987년 05월 01일 | <img src="./_media/japan.svg" style="zoom:5%;" />1988년 07월 01일 | <img src="./_media/japan.svg" style="zoom:5%;" />1990년 09월 01일 |
 | <img src="./_media/korea.svg" style="zoom:5%;" />1997년 02월 20일 | <img src="./_media/korea.svg" style="zoom:5%;" />1997년 03월 20일 | <img src="./_media/korea.svg" style="zoom:5%;" />1997년 04월 20일 |
 |                             4권                              |                             5권                              |                             6권                              |
-|        <img src="./_media/fss04.webp" alt="fss04" />         |        <img src="./_media/fss05.webp" alt="fss05" />         |        <img src="./_media/fss06.webp" alt="fss06" />         |
+|                ![fss04](./_media/fss04.webp)                 |                ![fss05](./_media/fss05.webp)                 |                ![fss06](./_media/fss06.webp)                 |
 | <img src="./_media/japan.svg" style="zoom:5%;" />1991년 10월 01일 | <img src="./_media/japan.svg" style="zoom:5%;" />1992년 10월 29일 | <img src="./_media/japan.svg" style="zoom:5%;" />1994년 03월 20일 |
 | <img src="./_media/korea.svg" style="zoom:5%;" />1997년 05월 25일 | <img src="./_media/korea.svg" style="zoom:5%;" />1997년 06월 30일 | <img src="./_media/korea.svg" style="zoom:5%;" />1997년 08월 30일 |
 |                             7권                              |                             8권                              |                             9권                              |
-|        <img src="./_media/fss07.webp" alt="fss07" />         |        <img src="./_media/fss08.webp" alt="fss08" />         |        <img src="./_media/fss09.webp" alt="fss09" />         |
+|                ![fss07](./_media/fss07.webp)                 |                ![fss08](./_media/fss08.webp)                 |                ![fss09](./_media/fss09.webp)                 |
 | <img src="./_media/japan.svg" style="zoom:5%;" />1995년 04월 24일 | <img src="./_media/japan.svg" style="zoom:5%;" />1997년 02월 26일 | <img src="./_media/japan.svg" style="zoom:5%;" />1998년 09월 24일 |
 | <img src="./_media/korea.svg" style="zoom:5%;" />1997년 08월 30일 | <img src="./_media/korea.svg" style="zoom:5%;" />1998년 02월 28일 | <img src="./_media/korea.svg" style="zoom:5%;" />1999년 11월 30일 |
 |                             10권                             |                             11권                             |                             12권                             |
-|        <img src="./_media/fss10.webp" alt="fss10" />         |        <img src="./_media/fss11.webp" alt="fss11" />         |        <img src="./_media/fss12.webp" alt="fss12" />         |
+|                ![fss10](./_media/fss10.webp)                 |                ![fss11](./_media/fss11.webp)                 |                ![fss12](./_media/fss12.webp)                 |
 | <img src="./_media/japan.svg" style="zoom:5%;" />2000년 09월 28일 | <img src="./_media/japan.svg" style="zoom:5%;" />2003년 04월 17일 | <img src="./_media/japan.svg" style="zoom:5%;" />2006년 04월 07일 |
 | <img src="./_media/korea.svg" style="zoom:5%;" />2003년 01월 30일 | <img src="./_media/korea.svg" style="zoom:5%;" />2004년 04월 26일 | <img src="./_media/korea.svg" style="zoom:5%;" />2009년 08월 30일 |
 
@@ -36,17 +36,17 @@
 |                      ◈ 리부트 이후 설정                      |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                             13권                             |                             14권                             |                             15권                             |
-|        <img src="./_media/fss13.webp" alt="fss13" />         |        <img src="./_media/fss14.webp" alt="fss14" />         |        <img src="./_media/fss15.webp" alt="fss15" />         |
+|                ![fss13](./_media/fss13.webp)                 |                ![fss14](./_media/fss14.webp)                 |                ![fss15](./_media/fss15.webp)                 |
 | <img src="./_media/japan.svg" style="zoom:5%;" />2015년 08월 08일 | <img src="./_media/japan.svg" style="zoom:5%;" />2018년 02월 10일 | <img src="./_media/japan.svg" style="zoom:5%;" />2019년 12월 09일 |
 | <img src="./_media/korea.svg" style="zoom:5%;" />2018년 08월 30일 | <img src="./_media/korea.svg" style="zoom:5%;" />2018년 12월 30일 | <img src="./_media/korea.svg" style="zoom:5%;" />2020년 06월 30일 |
 |                             16권                             |                             17권                             |                             18권                             |
-|        <img src="./_media/fss16.webp" alt="fss16" />         |        <img src="./_media/fss17.webp" alt="fss17" />         |        <img src="./_media/fss18.webp" alt="fss18" />         |
+|                ![fss16](./_media/fss16.webp)                 |                ![fss17](./_media/fss17.webp)                 |                ![fss18](./_media/fss18.webp)                 |
 | <img src="./_media/japan.svg" style="zoom:5%;" />2021년 10월 08일 | <img src="./_media/japan.svg" style="zoom:5%;" />2023년 03월 10일 | <img src="./_media/japan.svg" style="zoom:5%;" />2025년 03월 10일 |
 | <img src="./_media/korea.svg" style="zoom:5%;" />2022년 03월 30일 | <img src="./_media/korea.svg" style="zoom:5%;" />2023년 07월 30일 | <img src="./_media/korea.svg" style="zoom:5%;" />2025년 07월 31일 |
 |                             19권                             |                             20권                             |                             21권                             |
-|        <img src="./_media/fss19.webp" alt="fss19" />         |                                                              |                                                              |
-| <img src="./_media/japan.svg" style="zoom:5%;" />2026년 05월 09일 |      <img src="./_media/japan.svg" style="zoom:5%;" />       |      <img src="./_media/japan.svg" style="zoom:5%;" />       |
-| <img src="./_media/korea.svg" style="zoom:5%;" />2026년 10월 30일 |      <img src="./_media/korea.svg" style="zoom:5%;" />       |      <img src="./_media/korea.svg" style="zoom:5%;" />       |
+|                ![fss19](./_media/fss19.webp)                 |                                                              |                                                              |
+| <img src="./_media/japan.svg" style="zoom:5%;" />2026년 05월 09일 | ![japan](./_media/japan.svg)<img src="./_media/japan.svg" style="zoom:5%;" /> |      <img src="./_media/japan.svg" style="zoom:5%;" />       |
+| <img src="./_media/korea.svg" style="zoom:5%;" />2026년 10월 30일 |                 ![korea](./_media/korea.svg)                 |      <img src="./_media/korea.svg" style="zoom:5%;" />       |
 
 
 
