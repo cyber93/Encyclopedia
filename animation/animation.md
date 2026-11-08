@@ -15,7 +15,7 @@
 |                      ◈ 리부트 이전 설정                      |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                             1권                              |                             2권                              |                             3권                              |
-|        <img src="./_media/fss01.webp" alt="fss01" />         |        <img src="./_media/fss02.webp" alt="fss02" />         |        <img src="./_media/fss03.webp" alt="fss03" />         |
+|                ![fss01](./_media/fss01.webp)                 |                ![fss02](./_media/fss02.webp)                 |                ![fss03](./_media/fss03.webp)                 |
 | <img src="./_media/japan.svg" style="zoom:5%;" />1987년 05월 01일 | <img src="./_media/japan.svg" style="zoom:5%;" />1988년 07월 01일 | <img src="./_media/japan.svg" style="zoom:5%;" />1990년 09월 01일 |
 | <img src="./_media/korea.svg" style="zoom:5%;" />1997년 02월 20일 | <img src="./_media/korea.svg" style="zoom:5%;" />1997년 03월 20일 | <img src="./_media/korea.svg" style="zoom:5%;" />1997년 04월 20일 |
 |                             4권                              |                             5권                              |                             6권                              |
